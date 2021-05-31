@@ -1,4 +1,3 @@
-
 set foldlevelstart=1
 set foldmethod=syntax
 set ignorecase smartcase
