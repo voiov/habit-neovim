@@ -78,3 +78,5 @@ autocmd BufReadPost *
     \ if line("'\"") > 1 && line("'\"") <= line("$") |
     \   exe "normal! g`\"zz" |
     \ endif
+
+command! -nargs=* Wrap set wrap linebreak nolist
