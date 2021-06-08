@@ -29,7 +29,7 @@ nnoremap <silent> [t     <cmd>tabprevious<CR>
 nnoremap <silent> ]t     <cmd>tabNext<CR>
 nnoremap <silent> [T     <cmd>tabfirst<CR>
 nnoremap <silent> ]T     <cmd>tablast<CR>
-nnoremap <silent> <leader>w <cmd>w<CR>
+nnoremap <silent> <C-s>  <cmd>w<CR>
 nnoremap <silent> <leader>q <cmd>q<CR>
 nnoremap <silent> <leader>x <cmd>bd<CR>
 nnoremap <silent> <leader>Q <cmd>q!<CR>
